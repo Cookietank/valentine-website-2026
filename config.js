@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Awh reall, you love me that much?? 🥰",  // Shows when they go past 5000%
+        extreme: "Awh really, you love me that much?? 🥰",  // Shows when they go past 5000%
         high: "To the moon and back! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        normal: "Only that much? 👀"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
@@ -57,11 +57,11 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        backgroundStart: "#4FCAFF",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#16DB93",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#B14AED",     // Button color (should stand out against the background)
+        buttonHover: "#C874D9",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#1D263B"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
