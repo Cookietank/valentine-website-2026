@@ -42,8 +42,8 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Awh really, you love me that much?? 🥰",  // Shows when they go past 5000%
-        high: "To the moon and back! 🚀💝",              // Shows when they go past 1000%
+        extreme: "To the moon and back! 🚀💝",  // Shows when they go past 5000%
+        high: "Awh really, you love me that much?? 🥰",              // Shows when they go past 1000%
         normal: "Only that much? 👀"                           // Shows when they go past 100%
     },
 
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dguaudmbm/video/upload/v1770549348/Jauge_-_Gather-210403261_jsbzcz.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dguaudmbm/video/upload/Jauge_-_Gather-210403261_a7lzcd.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
