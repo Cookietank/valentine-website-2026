@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yippee!!! Correct Answer :) 🎉💝💖💝💓",
-        message: "Now teleport here RIGHT NOW I beg you (aka. see you very very soon! 9 days!!)",
+        message: "Now teleport here RIGHT NOW I beg you (aka. see you very very soon! 8 days!!)",
         emojis: "💖💝❤️💕"  // These will bounce around
     },
 
